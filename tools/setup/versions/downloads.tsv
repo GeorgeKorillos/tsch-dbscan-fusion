@@ -1,0 +1,15 @@
+# filename sha256 URL
+gmp-4.3.2.tar.bz2 936162c0312886c21581002b79932829aa048cfaf9937c6265aeaa14f1cd1775 https://gcc.gnu.org/pub/gcc/infrastructure/gmp-4.3.2.tar.bz2
+mpfr-2.4.2.tar.bz2 c7e75a08a8d49d2082e4caee1591a05d11b9d5627514e678f02d66a124bcf2ba https://gcc.gnu.org/pub/gcc/infrastructure/mpfr-2.4.2.tar.bz2
+mpc-0.8.1.tar.gz e664603757251fd8a352848276497a4c79b7f8b21fd8aedd5cc0598a38fee3e4 https://gcc.gnu.org/pub/gcc/infrastructure/mpc-0.8.1.tar.gz
+gcc-4.7.0.tar.bz2 a680083e016f656dab7acd45b9729912e70e71bbffcbf0e3e8aa1cccf19dc9a5 https://ftp.gnu.org/gnu/gcc/gcc-4.7.0/gcc-4.7.0.tar.bz2
+binutils-2.22.tar.bz2 6c7af8ed1c8cf9b4b9d6e6fe09a3e1d3d479fe63984ba8b9b26bf356b6313ca9 https://ftp.gnu.org/gnu/binutils/binutils-2.22.tar.bz2
+mspgcc-20120911.tar.bz2 4d675662a64047411e3a3f31388c747fd2609dd652612871a46736bf786a5f3e https://downloads.sourceforge.net/project/mspgcc/mspgcc/DEVEL-4.7.x/mspgcc-20120911.tar.bz2
+msp430mcu-20130321.tar.bz2 01be411f8901362fab32e7e1be044a44e087a98f3bd2346ac167960cfe6fa221 https://downloads.sourceforge.net/project/mspgcc/msp430mcu/msp430mcu-20130321.tar.bz2
+msp430-libc-20120716.tar.bz2 cbd78f468e9e3b2df9060f78e8edb1b7bfeb98a9abfa5410d23f63a5dc161c7d https://downloads.sourceforge.net/project/mspgcc/msp430-libc/msp430-libc-20120716.tar.bz2
+gcc-4.7.0-patches.tar.xz 0095576b979de004d626b527797e12be81d1683bfc570f8d28504bcb6cf13272 https://raw.githubusercontent.com/tgtakaoka/homebrew-mspgcc/124bbebceef35e802512fb293a188c7bee71093d/patches/gcc-4.7.0-patches.tar.xz
+mspgcc-4.7.2-compiled.tar.bz2 1cad781aa223552ef33855bfdc3d33f36c98b5e2db68068f5c9ac8bd5fcba08c https://simonduq.github.io/resources/mspgcc-4.7.2-compiled.tar.bz2
+config.guess e3d148130e9151735f8b9a8e69a70d06890ece51468a9762eb7ac0feddddcc2f https://raw.githubusercontent.com/chipp/gnu-config/00b15927496058d23e6258a28d8996f87cf1f191/config.guess
+config.sub 11c54f55c3ac99e5d2c3dc2bb0bcccbf69f8223cc68f6b2438daa806cf0d16d8 https://raw.githubusercontent.com/chipp/gnu-config/00b15927496058d23e6258a28d8996f87cf1f191/config.sub
+OpenJDK21U-jdk_x64_linux_hotspot_21.0.8_9.tar.gz f2dc5418092c43003db8f9005c4a286e1c0104fea96ccdd49e8ebd037cac9219 https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jdk_x64_linux_hotspot_21.0.8_9.tar.gz
+OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.8_9.tar.gz e5c41a1ab0865ea5de9b4529bf8526005f1d4593090845387d14fe450ce39c33 https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.8_9.tar.gz

@@ -1,0 +1,32 @@
+{
+  "start_seconds": 300.0,
+  "end_seconds": 3600.0,
+  "complete_logged_reports": 660,
+  "excluded_incomplete_log_records": 0,
+  "total_weight_histogram": {
+    "0": 3,
+    "1": 3,
+    "2": 4,
+    "3": 650
+  },
+  "weight_deficit": 19,
+  "weight_excess": 0,
+  "deficit_percent": 0.9595959595959596,
+  "scheduled_delta_ticks": {
+    "640": 659
+  },
+  "lateness_ticks": {
+    "0": 657,
+    "1": 3
+  },
+  "markers": {
+    "PIPE COALESCE": 13
+  },
+  "diagnostic_rx_records": 3361,
+  "matched_hop_delays": 3361,
+  "unmatched_rx_records": 0,
+  "hop_delay_seconds_p50": 0.113999999999578,
+  "hop_delay_seconds_p95": 0.5330000000000155,
+  "hop_delay_seconds_max": 4.41800000000012,
+  "note": "Aggregate weights are not unique sensor/epoch PDR. RX means application enqueue. Hop delays match source/8-bit seq/cluster within 30s; no end-to-end epoch attribution."
+}

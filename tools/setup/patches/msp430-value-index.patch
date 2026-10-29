@@ -1,0 +1,5 @@
+--- a/gcc/config/msp430/msp430-c.c
++++ b/gcc/config/msp430/msp430-c.c
+@@ -78,1 +78,1 @@
+-  value = values + TYPE_UNSIGNED (type);
++  value = values[TYPE_UNSIGNED (type)];

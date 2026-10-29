@@ -1,0 +1,41 @@
+{
+  "weighted_radio_on_percent": 5.447980492951648,
+  "nodes": [
+    {
+      "node": "Z1_1",
+      "measured_interval_seconds": 3299.964478,
+      "radio_on_percent": 5.383814528442327
+    },
+    {
+      "node": "Z1_2",
+      "measured_interval_seconds": 3299.964484,
+      "radio_on_percent": 5.442653909483712
+    },
+    {
+      "node": "Z1_3",
+      "measured_interval_seconds": 3299.964691,
+      "radio_on_percent": 5.51980154505235
+    },
+    {
+      "node": "Z1_4",
+      "measured_interval_seconds": 3299.964873,
+      "radio_on_percent": 5.493970571728568
+    },
+    {
+      "node": "Z1_5",
+      "measured_interval_seconds": 3299.964295,
+      "radio_on_percent": 5.413387692426533
+    },
+    {
+      "node": "Z1_6",
+      "measured_interval_seconds": 3299.964325,
+      "radio_on_percent": 5.474209179518933
+    },
+    {
+      "node": "Z1_7",
+      "measured_interval_seconds": 3299.964691,
+      "radio_on_percent": 5.408026015754724
+    }
+  ],
+  "note": "Difference of cumulative counters. Radio duty cycle, not joules. Start/end must belong to the same uninterrupted run."
+}

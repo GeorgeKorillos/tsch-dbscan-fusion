@@ -1,0 +1,35 @@
+{
+  "start_seconds": 300.0,
+  "end_seconds": 3600.0,
+  "complete_logged_reports": 660,
+  "excluded_incomplete_log_records": 0,
+  "total_weight_histogram": {
+    "0": 22,
+    "1": 118,
+    "2": 192,
+    "3": 320,
+    "4": 8
+  },
+  "weight_deficit": 494,
+  "weight_excess": 8,
+  "deficit_percent": 24.949494949494948,
+  "scheduled_delta_ticks": {
+    "640": 659
+  },
+  "lateness_ticks": {
+    "0": 660
+  },
+  "markers": {
+    "MERGE rejected": 46,
+    "Parent Timeout": 3,
+    "Queue Full": 2,
+    "add packet failed": 1
+  },
+  "diagnostic_rx_records": 0,
+  "matched_hop_delays": 0,
+  "unmatched_rx_records": 0,
+  "hop_delay_seconds_p50": null,
+  "hop_delay_seconds_p95": null,
+  "hop_delay_seconds_max": null,
+  "note": "Aggregate weights are not unique sensor/epoch PDR. RX means application enqueue. Hop delays match source/8-bit seq/cluster within 30s; no end-to-end epoch attribution."
+}

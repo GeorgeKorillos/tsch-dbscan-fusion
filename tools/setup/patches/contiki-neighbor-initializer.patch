@@ -1,0 +1,5 @@
+--- a/os/net/ipv6/uip-ds6-nbr.c
++++ b/os/net/ipv6/uip-ds6-nbr.c
+@@ -314,1 +314,1 @@
+-  linkaddr_t lladdr = {0};
++  linkaddr_t lladdr = {{0}};

@@ -1,0 +1,4 @@
+baadfdf88029b5f0a4feaf6dbf6b38e28a79c9f1307876d00fc71168a8542e40  src/master/build/z1/master_node.z1
+9c78dc27677d3bc0b93a3e71c62f23a9a4fa2fa0d6a8c7c9e7843bc040f207c1  src/slave/build/z1/slave_node.z1
+cf6dd2504dbadec4d8746b40bfd78a3396d9bdcb8d65cc3fe88f23082096c020  src/sensor/build/z1/sensor_node.z1
+d529c8000770a3b57a52f301730cd97c65eae6c0465fdb18ba9822e27b015b59  include/sensor_traces.h
